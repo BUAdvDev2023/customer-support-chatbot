@@ -9,6 +9,8 @@ This repository showcases a prototype for a customer support chatbot designed fo
 - **Prototype:** Demonstrates the basic functionality of a customer support chatbot on a mobile platform.
 
 #### Mobile Screenshots
+![Simulator Screenshot - iPhone 14 - 2024-07-24 at 17 49 31](https://github.com/user-attachments/assets/99753920-5b91-4521-98f0-d892b1880611)
+
 ![Mobile Screenshot 1](path/to/your/mobile-screenshot1.png)
 *Description of what is shown in the screenshot.*
 
