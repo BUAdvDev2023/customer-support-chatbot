@@ -9,24 +9,19 @@ This repository showcases a prototype for a customer support chatbot designed fo
 - **Prototype:** Demonstrates the basic functionality of a customer support chatbot on a mobile platform.
 
 #### Mobile Screenshots
-![Simulator Screenshot - iPhone 14 - 2024-07-24 at 17 49 31](https://github.com/user-attachments/assets/99753920-5b91-4521-98f0-d892b1880611)
-
-![Mobile Screenshot 1](path/to/your/mobile-screenshot1.png)
-*Description of what is shown in the screenshot.*
-
-![Mobile Screenshot 2](path/to/your/mobile-screenshot2.png)
-*Description of what is shown in the screenshot.*
+<img width="200" src="https://github.com/user-attachments/assets/99753920-5b91-4521-98f0-d892b1880611">
+<img width="200" src="https://github.com/user-attachments/assets/3453b530-2757-4673-bbd5-bbdb9e2d96ce">
+<img width="200" src="https://github.com/user-attachments/assets/645c95f4-b13a-4b06-a4a7-ee6374b94888">
+<img width="200" src="https://github.com/user-attachments/assets/f3e2e1da-47fc-4502-a8a0-7dd904371c12">
 
 ### Web Chatbot Concept Designs
 - **Conceptual Design:** Designs for the web version of the chatbot.
 - **User-Friendly Interface:** Design focuses on intuitive and accessible user interactions.
 
 #### Web Concept Screenshots
-![Web Concept Screenshot 1](path/to/your/web-screenshot1.png)
-*Description of what is shown in the screenshot.*
-
-![Web Concept Screenshot 2](path/to/your/web-screenshot2.png)
-*Description of what is shown in the screenshot.*
+<img width="500" src="https://github.com/user-attachments/assets/0578f2d2-943c-4251-9dbd-406eae89d8c0">
+<img width="500" src="https://github.com/user-attachments/assets/0f469865-195d-4aa5-8963-b88aff23415b">
+<img width="500" src="https://github.com/user-attachments/assets/f3afdc99-db29-43e4-b339-67ab5bda2c15">
 
 ## Benefits
 - **Improved Customer Service:** Provides immediate responses to common customer queries, reducing wait times.
